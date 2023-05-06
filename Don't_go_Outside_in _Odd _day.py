@@ -13,8 +13,3 @@ for i in range (1,10):
 
 print("Numbers of even number : ",even)
 print("Numbers of odd number :",odd)
-
-
-O/p :
-    Number of even numbers : 4
-    Number of odd numbers : 5    
